@@ -6,6 +6,7 @@ TikTok accounts creator
   - All Algorithms
   - Support Proxies
   - Device Registration
-  - Other APIs 
+  - Other APIs
+  - 100% Requests No Selenium
 - Contact :
   - TeleGram : https://t.me/WHI3PER
